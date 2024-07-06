@@ -46,6 +46,7 @@ color: none
     margin-right: 76px;
     display: inline-block;
     margin-bottom: 16px;
+  padding: 24px 0;
 }  
 .logo-studio-head { 
   font-family: "Raleway", sans-serif;
@@ -55,7 +56,6 @@ color: none
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
-  padding: 24px 0;
   margin-right: 76px;
 }
 .nav-list {
@@ -286,4 +286,3 @@ color: #f4f4fd;
 display: inline-block;
 margin-bottom: 16px;
 }
-
