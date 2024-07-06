@@ -3,6 +3,15 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
  ul { 
    list-style-type: none;
    margin: 0;
@@ -10,7 +19,6 @@ body {
     }
 a { 
   text-decoration: none;
-color: none
   }
   p {
     text-align: left;
@@ -35,9 +43,7 @@ color: none
   .page-header {
     border-bottom: 1px solid #e7e9fc;
   }
-  .logo {
-    padding: 24px;
-  }
+ 
 .logo-web {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
