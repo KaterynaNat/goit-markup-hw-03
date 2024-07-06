@@ -19,6 +19,11 @@ color: none
   img {
     display: block;
   }
+  .container {
+    max-width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }  
   .header-container {
     display: flex;
     align-items: center;  
@@ -38,6 +43,9 @@ color: none
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right: 76px;
+    display: inline-block;
+    margin-bottom: 16px;
 }  
 .logo-studio-head { 
   font-family: "Raleway", sans-serif;
@@ -231,7 +239,7 @@ margin-bottom: 72px;
 }
 .portfolio-img {
   background: #fff;
-  width: calc((100% - 2 * 24px) / 3);
+  width: calc((100% - 48px) / 3)
 }
 .portfolio-text {
 font-weight: 500;
